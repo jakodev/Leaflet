@@ -94,6 +94,9 @@ export var msPointer = !window.PointerEvent && window.MSPointerEvent;
 // `true` for all browsers supporting [pointer events](https://msdn.microsoft.com/en-us/library/dn433244%28v=vs.85%29.aspx).
 export var pointer = !!(window.PointerEvent || msPointer);
 
+//Mobile Chrome Touch fixing - DA 20180418
+pointer = false;
+
 // @property touch: Boolean
 // `true` for all browsers supporting [touch events](https://developer.mozilla.org/docs/Web/API/Touch_events).
 // This does not necessarily mean that the browser is running in a computer with
