@@ -1,7 +1,7 @@
 {
   "name": "jakodev-test-lf",
-  "version": "1.3.2",
-  "description": "leaflet package with bug fixing on chrome mobile device",
+  "version": "1.3.3",
+  "description": "leaflet package with fix touch gesture on Chrome Mobile devices",
   "devDependencies": {
     "eslint": "^4.5.0",
     "eslint-config-mourner": "^2.0.1",
