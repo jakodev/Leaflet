@@ -1,7 +1,11 @@
-Leaflet Changelog
+ALE-Leaflet Changelog
 =================
 
 (all changes without author notice are by [@mourner](https://github.com/mourner))
+
+## 1.3.2 (2018-04-18) - ALE
+
+* Fix touch gesture on Chrome Mobile devices (in order to ensure the right behavior when using leaflet-freedraw lib)
 
 ## 1.3.1 (2018-01-18)
 

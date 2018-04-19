@@ -1,5 +1,9 @@
 <img width="600" src="https://rawgit.com/Leaflet/Leaflet/master/src/images/logo.svg" alt="Leaflet" />
 
+-----------------------
+#### ALE custom version released to fix touch issue on mobile devices
+-----------------------
+
 Leaflet is the leading open-source JavaScript library for **mobile-friendly interactive maps**.
 Weighing just about 37 KB of gzipped JS code, it has all the mapping [features][] most developers ever need.
 
